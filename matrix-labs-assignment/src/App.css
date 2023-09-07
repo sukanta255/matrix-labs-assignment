@@ -109,7 +109,7 @@
   .top-mobile {
     display: grid;
   }
-  .app .sidebar {
+  .app .top-sidebar {
     display: none;
   }
   .app {
